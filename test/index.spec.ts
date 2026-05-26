@@ -1,12 +1,12 @@
 import { expect } from 'aegir/chai'
 import { base32 } from 'multiformats/bases/base32'
+import { base36 } from 'multiformats/bases/base36'
 import { base58btc } from 'multiformats/bases/base58'
 import { base64 } from 'multiformats/bases/base64'
 import { fromString as uint8ArrayFromString } from 'uint8arrays/from-string'
 import debug from 'weald'
 import { format } from 'weald/format'
 import { disable, enable, logger } from '../src/index.ts'
-import { base36 } from 'multiformats/bases/base36'
 
 describe('logger', () => {
   afterEach(() => {
