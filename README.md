@@ -58,7 +58,7 @@ with this base32: bafyfoo
 
 ## What's in a name?
 
-Great Birnam Wood is referenced in Shakespeare's [Scottish play](https://en.wikipedia.org/wiki/The_Scottish_Play).
+Great Birnam Wood is referenced in Shakespeare's [Scottish play](https://en.wikipedia.org/wiki/The_Scottish_Play)
 as part of the prophecy told by the three witches. The woods themselves have
 largely been cut down since, and the trees (presumably) turned into logs.
 
